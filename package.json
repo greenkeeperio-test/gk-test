@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "lodash": "4.16.4",
-    "hapi": "15.2.0"
+    "hapi": "15.2.0",
+    "gk-test-dep": "40.3.0"
   },
   "devDependencies": { "lodash": "4.16.4" }
 }

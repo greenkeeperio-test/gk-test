@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "gk-test-dep": "^114.0.0"
+    "gk-test-dep": "^116.0.0"
   },
   "scripts": {
     "test": "node index.js"

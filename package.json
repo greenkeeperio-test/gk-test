@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "lodash": "4.16.4",
-    "hapi": "15.2.0",
-    "gk-test-dep": "109.0.0"
+    "gk-test-dep": "^113.0.0"
   },
-  "devDependencies": { "lodash": "4.16.4" }
+  "scripts": {
+    "test": "node index.js"
+  }
 }

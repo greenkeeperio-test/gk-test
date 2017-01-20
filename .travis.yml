@@ -11,3 +11,4 @@ branches:
   - master
   - stable
   - greenkeeper/initial
+  - /^greenkeeper/.*$/

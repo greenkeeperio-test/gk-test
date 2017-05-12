@@ -9,6 +9,3 @@ node_js:
 branches:
   only:
   - master
-  - stable
-  - greenkeeper/initial
-  - /^greenkeeper/.*$/

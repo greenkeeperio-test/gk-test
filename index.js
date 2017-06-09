@@ -1,1 +1,1 @@
-// pass lol
+process.exit(1)

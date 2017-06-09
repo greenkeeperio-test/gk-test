@@ -6,6 +6,7 @@
     "@finnpauls/test-package": ">=4.1.0"
   },
   "scripts": {
-    "test": "node index.js"
+    "test": "node index.js",
+    "bla": "blub"
   }
 }

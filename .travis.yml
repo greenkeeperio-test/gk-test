@@ -6,4 +6,3 @@ notifications:
   email: false
 node_js:
   - '7'
-script: 'exit 1'

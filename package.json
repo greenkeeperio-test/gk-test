@@ -11,7 +11,6 @@
     "test": "node index.js",
     "bla": "blub"
   },
-  {
   "greenkeeper": {
     "commitMessages": {
       "initialBadge": "Docs: Add Greenkeeper badge",
@@ -23,5 +22,4 @@
       "devDependencyPin": "Fix: Pin ${dependency} to ${oldVersion}"
     }
   }
-}
 }

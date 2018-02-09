@@ -16,8 +16,6 @@
       "initialBadge": "Docs: Add Greenkeeper badge",
       "initialDependencies": "Upgrade: Update dependencies",
       "initialBranches": "Build: Whitelist greenkeeper branches",
-      "dependencyUpdate": "Oh hi ${dependency}!",
-      "devDependencyUpdate": "Whaaaaaat ${dependency}, updated to version ${version}!!!",
       "dependencyPin": "Fix: Pin ${dependency} to ${oldVersion}",
       "devDependencyPin": "Fix: Pin ${dependency} to ${oldVersion}"
     }

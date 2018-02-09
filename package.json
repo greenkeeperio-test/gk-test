@@ -10,5 +10,18 @@
   "scripts": {
     "test": "node index.js",
     "bla": "blub"
+  },
+  {
+  "greenkeeper": {
+    "commitMessages": {
+      "initialBadge": "Docs: Add Greenkeeper badge",
+      "initialDependencies": "Upgrade: Update dependencies",
+      "initialBranches": "Build: Whitelist greenkeeper branches",
+      "dependencyUpdate": ":rocket: Upgrade: Update ${dependency} to version ${version}",
+      "devDependencyUpdate": ":rocket: Upgrade: Update ${dependency} to version ${version}",
+      "dependencyPin": "Fix: Pin ${dependency} to ${oldVersion}",
+      "devDependencyPin": "Fix: Pin ${dependency} to ${oldVersion}"
+    }
   }
+}
 }

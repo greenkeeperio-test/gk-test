@@ -2,8 +2,8 @@
   "dependencies": {
     "@finnpauls/test-package": ">=4.1.0",
     "hapi": "17.3.1",
-    "neighbourhoodie-test-package": "^10.0.0",
-    "npm": "5.8.0",
+    "neighbourhoodie-test-package": "^22.0.0",
+    "npm": "6.0.0",
     "test-dep": "1.5.0",
     "lodash": "*"
   },

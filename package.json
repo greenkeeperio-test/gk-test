@@ -4,7 +4,7 @@
     "hapi": "17.4.0",
     "neighbourhoodie-test-package": "^22.0.0",
     "bumper-car": "^3.0.1",
-    "npm": "6.0.0",
+    "npm": "6.0.1",
     "test-dep": "1.5.0",
     "lodash": "*"
   },

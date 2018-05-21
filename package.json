@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
-    "hapi": "17.4.0",
+    "hapi": "17.5.0",
     "neighbourhoodie-test-package": "^22.0.0",
     "bumper-car": "^3.0.1",
     "npm": "6.0.0",

@@ -1,0 +1,17 @@
+{
+  "name": "gk-test-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@finnpauls/test-package": ">=4.1.0",
+    "lodash": "*",
+    "neighbourhoodie-test-package": "^22.0.0",
+    "test-dep": "1.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

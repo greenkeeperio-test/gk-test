@@ -7,3 +7,7 @@ notifications:
 node_js:
   - '4'
   - '7'
+before_install:
+  - npm install -g npm
+  - npm install -g greenkeeper-lockfile@greenkeeperio/feat/monorepos#feat/monorepos
+before_script: greenkeeper-lockfile-update

@@ -9,5 +9,5 @@ node_js:
   - '8'
 before_install:
   - npm install -g npm
-  - npm install -g greenkeeper-lockfile@greenkeeperio/feat/monorepos#feat/monorepos
+  - npm install -g greenkeeperio/greenkeeper-lockfile#feat/monorepos
 before_script: greenkeeper-lockfile-update

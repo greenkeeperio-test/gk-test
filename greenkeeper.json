@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "packages/gk-test-a/package.json",
+        "packages/gk-test-b/package.json",
+        "packages/gk-test-c/package.json"
+      ]
+    }
+  }
+}

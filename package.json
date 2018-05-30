@@ -2,7 +2,7 @@
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
     "bumper-car": "^5.11.0",
-    "hapi": "17.5.0",
+    "hapi": "17.5.1",
     "lerna": "^2.11.0",
     "lodash": "*",
     "neighbourhoodie-test-package": "^22.0.0",

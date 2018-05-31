@@ -8,6 +8,6 @@ node_js:
   - '8'
 before_install:
   - npm install -g npm
-  - npm install -g greenkeeperio/greenkeeper-lockfile#fix/monorepos_wrong_branch
+  - npm install -g greenkeeperio/greenkeeper-lockfile#feat/monorepos
 before_script: greenkeeper-lockfile-update
 after_script: greenkeeper-lockfile-upload

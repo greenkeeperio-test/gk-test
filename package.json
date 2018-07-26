@@ -25,6 +25,10 @@
       "devDependencyUpdate": ":gem: Upgrade: Update ${dependency} to version ${version}",
       "dependencyPin": "Fix: Pin ${dependency} to ${oldVersion}",
       "devDependencyPin": "Fix: Pin ${dependency} to ${oldVersion}"
+    },
+    "prTitles": {
+      basicPR: 'Update ${dependency} to the latest!!!',
+      groupPR: 'Update ${dependency} in group ${group} to the latest!!!!'
     }
   }
 }

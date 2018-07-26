@@ -1,16 +1,16 @@
 {
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
-    "bumper-car": "^5.11.0",
+    "bumper-car": "^9.0.0",
     "hapi": "17.5.2",
     "lerna": "^2.11.0",
     "lodash": "*",
-    "neighbourhoodie-test-package": "^28.1.0",
-    "npm": "6.1.0",
+    "neighbourhoodie-test-package": "^40.1.1",
+    "npm": "6.2.0",
     "test-dep": "1.5.0",
-    "gk-test-a": "8.1.2",
-    "gk-test-b": "8.1.2",
-    "gk-test-c": "8.1.2"
+    "gk-test-a": "9.0.1",
+    "gk-test-b": "9.0.1",
+    "gk-test-c": "9.0.1"
   },
   "scripts": {
     "test": "node index.js",

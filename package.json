@@ -5,7 +5,7 @@
     "hapi": "17.5.2",
     "lerna": "^2.11.0",
     "lodash": "*",
-    "neighbourhoodie-test-package": "^42.0.0",
+    "neighbourhoodie-test-package": "^43.6.0",
     "npm": "6.2.0",
     "test-dep": "1.5.0",
     "gk-test-a": "9.0.1",

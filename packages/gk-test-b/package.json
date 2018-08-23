@@ -6,7 +6,7 @@
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
     "lodash": "*",
-    "neighbourhoodie-test-package": "^42.0.0",
+    "neighbourhoodie-test-package": "^43.6.0",
     "test-dep": "1.5.0"
   },
   "scripts": {

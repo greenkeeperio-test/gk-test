@@ -1,6 +1,6 @@
 {
   "name": "gk-test-a",
-  "version": "9.0.2",
+  "version": "9.0.3",
   "description": "",
   "main": "index.js",
   "devDependencies": {

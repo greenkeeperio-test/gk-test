@@ -6,7 +6,3 @@ notifications:
   email: false
 node_js:
   - '8'
-before_install:
-  - npm install -g npm
-install:
-  - npm install

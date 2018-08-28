@@ -6,7 +6,7 @@
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
     "gk-test-a": "10.0.0",
-    "gk-test-c": "1.0.0",
+    "gk-test-c": "9.1.0",
     "lodash": "*",
     "neighbourhoodie-test-package": "42.0.0",
     "test-dep": "1.5.0"

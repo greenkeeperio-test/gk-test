@@ -9,7 +9,7 @@
     "npm": "6.2.0",
     "test-dep": "1.5.0",
     "gk-test-a": "10.0.0",
-    "gk-test-b": "9.0.1",
+    "gk-test-b": "9.1.0",
     "gk-test-c": "9.0.1"
   },
   "scripts": {

@@ -3,7 +3,7 @@
     "@finnpauls/test-package": ">=4.1.0",
     "bumper-car": "^9.0.0",
     "hapi": "17.5.2",
-    "lerna": "2.11.0",
+    "lerna": "3.2.0",
     "lodash": "*",
     "neighbourhoodie-test-package": "42.0.0",
     "npm": "6.2.0",

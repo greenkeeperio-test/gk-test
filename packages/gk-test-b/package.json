@@ -1,6 +1,6 @@
 {
   "name": "gk-test-b",
-  "version": "9.1.0",
+  "version": "10.1.1",
   "description": "",
   "main": "index.js",
   "devDependencies": {
@@ -15,5 +15,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "7e3f8b36625c171add6693487a4c2823388b24d7"
 }

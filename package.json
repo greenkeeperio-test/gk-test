@@ -31,5 +31,5 @@
       "groupPR": "Update ${dependency} in group ${group} to the latest :cat:"
     }
   },
-  "version": "11.1.4"
+  "version": "11.2.0"
 }

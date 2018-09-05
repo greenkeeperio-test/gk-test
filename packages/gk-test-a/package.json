@@ -5,9 +5,9 @@
   "main": "index.js",
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
-    "gk-test-b": "1.0.0",
+    "gk-test-b": "11.2.1",
     "lodash": "*",
-    "neighbourhoodie-test-package": "22.0.0",
+    "neighbourhoodie-test-package": "43.10.0",
     "test-dep": "1.5.0"
   },
   "scripts": {

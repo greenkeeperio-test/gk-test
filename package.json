@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
-    "bumper-car": "15.0.0",
+    "bumper-car": "16.0.0",
     "hapi": "17.5.4",
     "lerna": "3.2.1",
     "lodash": "*",

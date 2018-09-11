@@ -3,9 +3,9 @@
     "default": {
       "packages": [
         "package.json",
-        "packages/gk-test-a/package.json",
-        "packages/gk-test-b/package.json",
-        "packages/gk-test-c/package.json"
+        "packages/multibumper-a/package.json",
+        "packages/multibumper-b/package.json",
+        "packages/multibumper-c/package.json"
       ]
     }
   }

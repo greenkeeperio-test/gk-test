@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "echo \"Error: nooooo test specified\" && exit 1",
-    "bump": "bump yo"
+    "bump": "bump yoo"
   },
   "author": "",
   "license": "ISC",

@@ -7,7 +7,7 @@
     "@finnpauls/test-package": ">=4.1.0",
     "gk-test-a": "11.2.1",
     "lodash": "*",
-    "neighbourhoodie-test-package": "43.10.0",
+    "neighbourhoodie-test-package": "49.1235.0",
     "test-dep": "1.5.0"
   },
   "scripts": {

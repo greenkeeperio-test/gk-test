@@ -1,6 +1,6 @@
 {
   "name": "multibumper-b",
-  "version": "15.0.1-alpha.0",
+  "version": "16.0.0",
   "description": "",
   "main": "index.js",
   "devDependencies": {

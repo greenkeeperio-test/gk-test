@@ -31,5 +31,10 @@
       "groupPR": "Update ${dependency} in group ${group} to the latest :cat:"
     }
   },
-  "version": "11.3.0"
+  "version": "11.3.0",
+  "name": "gk-test",
+  "dependencies": {
+    "eslint": "^5.8.0",
+    "jest": "^23.6.0"
+  }
 }

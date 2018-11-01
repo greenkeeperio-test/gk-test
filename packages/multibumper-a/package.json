@@ -1,18 +1,18 @@
 {
   "name": "multibumper-a",
-  "version": "17.0.0",
+  "version": "17.4.0",
   "description": "",
   "main": "index.js",
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
     "gk-test-b": "11.2.1",
     "lodash": "*",
-    "neighbourhoodie-test-package": "49.1235.1",
+    "neighbourhoodie-test-package": "59.0.0",
     "test-dep": "1.5.0"
   },
   "scripts": {
     "test": "echo \"Error: nooooo test specified\" && exit 1",
-    "bump": "bump yyay"
+    "bump": "bump huhuuuuu"
   },
   "author": "",
   "license": "ISC",

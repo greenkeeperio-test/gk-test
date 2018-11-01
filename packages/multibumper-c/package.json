@@ -1,13 +1,13 @@
 {
   "name": "multibumper-c",
-  "version": "17.0.0",
+  "version": "17.4.0",
   "description": "",
   "main": "index.js",
   "devDependencies": {
     "@finnpauls/test-package": ">=4.1.0",
     "gk-test-a": "11.2.1",
     "lodash": "*",
-    "neighbourhoodie-test-package": "49.1235.1",
+    "neighbourhoodie-test-package": "59.0.0",
     "test-dep": "1.5.0"
   },
   "scripts": {

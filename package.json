@@ -1,18 +1,5 @@
 {
-  "devDependencies": {
-    "@finnpauls/test-package": ">=4.1.0",
-    "bumper-car": "20.1.0",
-    "hapi": "17.6.0",
-    "lerna": "3.4.3",
-    "lodash": "*",
-    "neighbourhoodie-test-package": "59.0.0",
-    "gk-test2": "git@github.com:neighbourhoodie/gk-test2.git",
-    "npm": "6.4.1",
-    "test-dep": "1.5.0",
-    "gk-test-a": "11.2.1",
-    "gk-test-b": "11.2.1",
-    "gk-test-c": "11.2.1"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "node index.js",
     "bla": "blub"
@@ -35,7 +22,7 @@
   "version": "11.3.0",
   "name": "gk-test",
   "dependencies": {
-    "eslint": "5.8.0",
-    "jest": "23.6.0"
+    "gk-test2": "github:neighbourhoodie/gk-test2",
+    "neighbourhoodie-test-package": "59.0.0"
   }
 }

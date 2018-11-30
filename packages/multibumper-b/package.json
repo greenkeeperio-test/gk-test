@@ -8,7 +8,7 @@
     "gk-test-a": "11.2.1",
     "gk-test-c": "11.2.1",
     "lodash": "*",
-    "neighbourhoodie-test-package": "60.4.1",
+    "neighbourhoodie-test-package": "60.4.2",
     "test-dep": "1.5.0"
   },
   "scripts": {

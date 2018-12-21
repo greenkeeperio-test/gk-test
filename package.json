@@ -23,6 +23,6 @@
   "name": "gk-test",
   "dependencies": {
     "gk-test2": "github:neighbourhoodie/gk-test2",
-    "neighbourhoodie-test-package": "59.0.0"
+    "neighbourhoodie-test-package": "60.5.2"
   }
 }
